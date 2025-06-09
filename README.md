@@ -52,7 +52,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository (or download the source code):**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Utkrisht2/Gamified_User_Dashboard
     cd gamified-user-dashboard
     ```
     If you've exported the project, simply navigate to the extracted folder.
